@@ -1,0 +1,1284 @@
+{
+    "name": "Sales-Support",
+    "children": [
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "Corporate Shared",
+            "size": 9,
+            "avg": "$46,450",
+            "total": "$418,049.28"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "EC-1",
+            "size": 3,
+            "avg": "$79,626",
+            "total": "$238,877.51"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENT BU Shared",
+            "size": 112,
+            "avg": "$89,853",
+            "total": "$10,063,563.42"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTE - 1WIN",
+            "size": 6,
+            "avg": "$75,927",
+            "total": "$455,561.07"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTE - 2LIN",
+            "size": 6,
+            "avg": "$68,587",
+            "total": "$411,522.78"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTE - 3WIN",
+            "size": 4,
+            "avg": "$79,626",
+            "total": "$318,503.35"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTE - 4MIX",
+            "size": 5,
+            "avg": "$83,925",
+            "total": "$419,626.84"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTE - 5WIN",
+            "size": 5,
+            "avg": "$72,313",
+            "total": "$361,567.13"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTE - 6MIX",
+            "size": 5,
+            "avg": "$65,688",
+            "total": "$328,439.84"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTE - 7LIN",
+            "size": 8,
+            "avg": "$61,897",
+            "total": "$495,179.99"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTE - 8WIN",
+            "size": 8,
+            "avg": "$69,716",
+            "total": "$557,727.77"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "Enterprise Shared",
+            "size": 2,
+            "avg": "$79,626",
+            "total": "$159,251.67"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTF - 1MIX",
+            "size": 1,
+            "avg": "$79,626",
+            "total": "$79,625.84"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTF - 2MIX",
+            "size": 4,
+            "avg": "$79,626",
+            "total": "$318,503.35"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTF - 3MIX",
+            "size": 6,
+            "avg": "$62,933",
+            "total": "$377,597.55"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTF - 4MIX",
+            "size": 10,
+            "avg": "$88,043",
+            "total": "$880,434.04"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTF - 5MIX",
+            "size": 8,
+            "avg": "$75,303",
+            "total": "$602,421.30"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTW-  1WIN",
+            "size": 7,
+            "avg": "$74,430",
+            "total": "$521,012.51"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTW - 2LIN",
+            "size": 6,
+            "avg": "$69,250",
+            "total": "$415,498.72"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTW - 3MIX",
+            "size": 5,
+            "avg": "$69,992",
+            "total": "$349,959.44"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTW - 4LIN",
+            "size": 5,
+            "avg": "$76,709",
+            "total": "$383,543.69"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTW - 5WIN",
+            "size": 7,
+            "avg": "$63,064",
+            "total": "$441,445.02"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTW-  6WIN",
+            "size": 4,
+            "avg": "$79,626",
+            "total": "$318,503.35"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTW - 7MIX",
+            "size": 7,
+            "avg": "$60,932",
+            "total": "$426,525.00"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENTW - 8MC",
+            "size": 8,
+            "avg": "$81,907",
+            "total": "$655,252.92"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "Hybrid Shared",
+            "size": 2,
+            "avg": "$79,626",
+            "total": "$159,251.67"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "SMB UK-AH",
+            "size": 1,
+            "avg": "$79,626",
+            "total": "$79,625.84"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "AR Support",
+            "team": "ENTF - 2MIX",
+            "size": 1,
+            "avg": "$77,002",
+            "total": "$77,002.26"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Channel Sales",
+            "team": "ENTE - 4MIX",
+            "size": 3,
+            "avg": "$77,002",
+            "total": "$231,006.77"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Database",
+            "team": "ENT BU Shared",
+            "size": 6,
+            "avg": "$130,477",
+            "total": "$782,861.33"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Database",
+            "team": "ENT SMB Shared",
+            "size": 16,
+            "avg": "$106,141",
+            "total": "$1,698,249.83"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Host Based Replication",
+            "team": "ENT BU Shared",
+            "size": 8,
+            "avg": "$87,552",
+            "total": "$700,412.70"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Internal Accounts",
+            "team": "ENT BU Shared",
+            "size": 5,
+            "avg": "$70,414",
+            "total": "$352,071.80"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "IT Operations",
+            "team": "ENT BU Shared",
+            "size": 18,
+            "avg": "$98,067",
+            "total": "$1,765,204.68"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Managed Back Up Support",
+            "team": "ENT BU Shared",
+            "size": 25,
+            "avg": "$54,963",
+            "total": "$1,374,073.39"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Managed Back Up Support",
+            "team": "ENT SMB Shared",
+            "size": 1,
+            "avg": "$55,759",
+            "total": "$55,759.31"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Managed Back Up Support",
+            "team": "Found UK-AH",
+            "size": 6,
+            "avg": "$56,871",
+            "total": "$341,224.61"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Monitoring",
+            "team": "ENT BU Shared",
+            "size": 3,
+            "avg": "$77,002",
+            "total": "$231,006.77"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Network Security - Support",
+            "team": "ENT BU Shared",
+            "size": 149,
+            "avg": "$75,858",
+            "total": "$11,302,895.66"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Network Security - Support",
+            "team": "ENT UK-AH",
+            "size": 12,
+            "avg": "$75,603",
+            "total": "$907,241.50"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Network Security - Support",
+            "team": "ENTF - 2MIX",
+            "size": 1,
+            "avg": "$76,066",
+            "total": "$76,066.46"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Network Security - Support",
+            "team": "SMB UK-AH",
+            "size": 10,
+            "avg": "$74,497",
+            "total": "$744,974.54"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Storage",
+            "team": "ENT BU Shared",
+            "size": 49,
+            "avg": "$84,414",
+            "total": "$4,136,300.63"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Support Management",
+            "team": "ENT BU Shared",
+            "size": 1,
+            "avg": "$77,002",
+            "total": "$77,002.26"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Support Ops - CTB",
+            "team": "ENT BU Shared",
+            "size": 10,
+            "avg": "$97,332",
+            "total": "$973,323.43"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "EC-1",
+            "size": 6,
+            "avg": "$85,285",
+            "total": "$511,709.30"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "ENT BU Shared",
+            "size": 255,
+            "avg": "$63,997",
+            "total": "$16,319,231.19"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "ENT UK-AH",
+            "size": 30,
+            "avg": "$61,252",
+            "total": "$1,837,553.75"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "ENTF - 2MIX",
+            "size": 1,
+            "avg": "$64,363",
+            "total": "$64,363.41"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "ENTF - 4MIX",
+            "size": 1,
+            "avg": "$64,363",
+            "total": "$64,363.41"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "SMB UK-AH",
+            "size": 20,
+            "avg": "$65,691",
+            "total": "$1,313,813.53"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENT BU Shared",
+            "size": 37,
+            "avg": "$66,179",
+            "total": "$2,448,630.53"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENT UK-AH",
+            "size": 5,
+            "avg": "$90,978",
+            "total": "$454,891.20"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTE - 1WIN",
+            "size": 4,
+            "avg": "91,252",
+            "total": "$365,008.60"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTE - 2LIN",
+            "size": 3,
+            "avg": "91,252",
+            "total": "$273,756.45"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTE - 3WIN",
+            "size": 3,
+            "avg": "91,252",
+            "total": "$273,756.45"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTE - 4MIX",
+            "size": 3,
+            "avg": "91,252",
+            "total": "$273,756.45"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTE - 5WIN",
+            "size": 1,
+            "avg": "91,252",
+            "total": "$91,252.15"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTE - 6MIX",
+            "size": 2,
+            "avg": "91,252",
+            "total": "$182,504.30"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTE - 7LIN",
+            "size": 3,
+            "avg": "91,252",
+            "total": "$273,756.45"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTE - 8WIN",
+            "size": 5,
+            "avg": "99,820",
+            "total": "$499,100.00"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTF - 1MIX",
+            "size": 2,
+            "avg": "91,252",
+            "total": "$182,504.30"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTF - 2MIX",
+            "size": 2,
+            "avg": "91,252",
+            "total": "$182,504.30"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTF - 3MIX",
+            "size": 1,
+            "avg": "91,252",
+            "total": "$91,252.15"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTF - 4MIX",
+            "size": 7,
+            "avg": "115,440",
+            "total": "$808,082.60"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTF - 5MIX",
+            "size": 7,
+            "avg": "114,934",
+            "total": "$804,541.09"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTW-  1WIN",
+            "size": 6,
+            "avg": "109,625",
+            "total": "$657,751.77"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTW - 2LIN",
+            "size": 4,
+            "avg": "91,252",
+            "total": "$365,008.60"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTW - 3MIX",
+            "size": 1,
+            "avg": "91,252",
+            "total": "$91,252.15"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTW - 4LIN",
+            "size": 2,
+            "avg": "91,252",
+            "total": "$182,504.30"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTW - 5WIN",
+            "size": 3,
+            "avg": "91,252",
+            "total": "$273,756.45"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTW-  6WIN",
+            "size": 3,
+            "avg": "91,252",
+            "total": "$273,756.45"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "ENTW - 7MIX",
+            "size": 1,
+            "avg": "91,252",
+            "total": "$91,252.15"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "Found UK-AH",
+            "size": 1,
+            "avg": "91,252",
+            "total": "$91,252.15"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "SMB UK-AH",
+            "size": 9,
+            "avg": "80,454",
+            "total": "$724,088.42"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Virtualization",
+            "team": "ENT BU Shared",
+            "size": 24,
+            "avg": "90,076",
+            "total": "$2,161,835.79"
+        },
+        {
+            "businessunit": "Enterprise",
+            "division": "Support",
+            "department": "Webscale Engineers",
+            "team": "ENT BU Shared",
+            "size": 17,
+            "avg": "99,867",
+            "total": "$1,697,733.89"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "A1",
+            "size": 8,
+            "avg": "$60,036",
+            "total": "$480,289.50"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "A10",
+            "size": 3,
+            "avg": "$53,379",
+            "total": "$160,138.01"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "A2",
+            "size": 7,
+            "avg": "$54,542",
+            "total": "$381,795.26"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "A3",
+            "size": 5,
+            "avg": "$58,368",
+            "total": "$291,841.81"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "A4",
+            "size": 8,
+            "avg": "$54,330",
+            "total": "$434,641.88"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "A5",
+            "size": 7,
+            "avg": "$54,000",
+            "total": "$378,000.00"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "A6",
+            "size": 7,
+            "avg": "$56,678",
+            "total": "$396,743.58"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "A9",
+            "size": 2,
+            "avg": "$53,379",
+            "total": "$106,758.68"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "Cloud Shared",
+            "size": 20,
+            "avg": "$56,179",
+            "total": "$1,123,573.59"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "D1",
+            "size": 8,
+            "avg": "$61,243",
+            "total": "$489,944.46"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "D3",
+            "size": 13,
+            "avg": "$52,228",
+            "total": "$678,961.25"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "D7",
+            "size": 2,
+            "avg": "$53,379",
+            "total": "$106,758.68"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "ENT SMB Shared",
+            "size": 18,
+            "avg": "$33,002",
+            "total": "$594,034.10"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "Hybrid Shared",
+            "size": 60,
+            "avg": "$52,782",
+            "total": "$3,166,937.41"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "LATM-1MIX",
+            "size": 4,
+            "avg": "$53,379",
+            "total": "$213,517.35"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "Mail & apps",
+            "size": 4,
+            "avg": "$53,379",
+            "total": "$213,517.35"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Account Managers",
+            "team": "SMB BU Shared",
+            "size": 1,
+            "avg": "$53,379",
+            "total": "$53,379.34"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "AR Support",
+            "team": "A1",
+            "size": 2,
+            "avg": "$37,118",
+            "total": "$74,235.49"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "AR Support",
+            "team": "A3",
+            "size": 2,
+            "avg": "$37,118",
+            "total": "$74,235.49"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "AR Support",
+            "team": "A4",
+            "size": 1,
+            "avg": "$37,118",
+            "total": "$37,117.74"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "AR Support",
+            "team": "A5",
+            "size": 1,
+            "avg": "$37,118",
+            "total": "$37,117.74"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "AR Support",
+            "team": "Hybrid Shared",
+            "size": 1,
+            "avg": "$37,118",
+            "total": "$37,117.74"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Chat",
+            "team": "D5",
+            "size": 41,
+            "avg": "$49,527",
+            "total": "$2,030,615.37"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Chat",
+            "team": "Hybrid Shared",
+            "size": 2,
+            "avg": "$48,976",
+            "total": "$97,952.45"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Checkmate",
+            "team": "Cloud Shared",
+            "size": 4,
+            "avg": "$60,713",
+            "total": "$242,851.74"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Cloud Advisors",
+            "team": "Cloud Shared",
+            "size": 1,
+            "avg": "$60,713",
+            "total": "$60,712.94"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Cloud Support",
+            "team": "Cloud Shared",
+            "size": 14,
+            "avg": "$48,730",
+            "total": "$682,214.38"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Cloud Support",
+            "team": "D1",
+            "size": 4,
+            "avg": "$61,459",
+            "total": "$245,835.03"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Cloud Support",
+            "team": "D4",
+            "size": 44,
+            "avg": "$61,797",
+            "total": "$2,719,076.17"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Cloud Support",
+            "team": "D7",
+            "size": 1,
+            "avg": "$61,459",
+            "total": "$61,458.76"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Cloud Support",
+            "team": "Mail & apps",
+            "size": 6,
+            "avg": "$46,024",
+            "total": "$276,145.17"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Cloud Support",
+            "team": "Tier Two",
+            "size": 10,
+            "avg": "$81,838",
+            "total": "$818,381.10"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Cloud Tools",
+            "team": "Cloud Shared",
+            "size": 7,
+            "avg": "$79,427",
+            "total": "$555,986.64"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Managed Back Up Support",
+            "team": "Hybrid Shared",
+            "size": 9,
+            "avg": "$42,377",
+            "total": "$381,389.40"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Managed Cloud",
+            "team": "D3",
+            "size": 66,
+            "avg": "$68,635",
+            "total": "$4,529,907.38"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Monitoring",
+            "team": "Hybrid Shared",
+            "size": 15,
+            "avg": "$50,809",
+            "total": "$762,139.34"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Network Security - Support",
+            "team": "A10",
+            "size": 1,
+            "avg": "$64,801",
+            "total": "$64,800.82"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Network Security - Support",
+            "team": "Hybrid Shared",
+            "size": 45,
+            "avg": "$64,725",
+            "total": "$2,912,637.69"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Management",
+            "team": "Cloud Shared",
+            "size": 5,
+            "avg": "$136,504",
+            "total": "$682,517.60"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Management",
+            "team": "D1",
+            "size": 1,
+            "avg": "$135,280",
+            "total": "$135,279.53"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Management",
+            "team": "D3",
+            "size": 1,
+            "avg": "$135,280",
+            "total": "$135,279.53"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Management",
+            "team": "D4",
+            "size": 2,
+            "avg": "$135,280",
+            "total": "$270,559.05"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Management",
+            "team": "D5",
+            "size": 1,
+            "avg": "$135,280",
+            "total": "$135,279.53"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Management",
+            "team": "Hybrid Shared",
+            "size": 7,
+            "avg": "$131,527",
+            "total": "$920,691.25"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Management",
+            "team": "Mail & apps",
+            "size": 1,
+            "avg": "$135,280",
+            "total": "$135,279.53"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Ops - CTB",
+            "team": "Cloud Savvy",
+            "size": 4,
+            "avg": "$131,323",
+            "total": "$525,291.46"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Ops - CTB",
+            "team": "Moneyball",
+            "size": 7,
+            "avg": "$146,199",
+            "total": "$1,023,395.93"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Ops - RTB",
+            "team": "Cloud Shared",
+            "size": 12,
+            "avg": "$83,612",
+            "total": "$1,003,339.12"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Support Ops - RTB",
+            "team": "SMB BU Shared",
+            "size": 3,
+            "avg": "$86,762",
+            "total": "$260,284.74"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "A1",
+            "size": 6,
+            "avg": "$53,024",
+            "total": "$318,141.95"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "A10",
+            "size": 4,
+            "avg": "$64,383",
+            "total": "$257,531.11"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "A2",
+            "size": 2,
+            "avg": "$64,383",
+            "total": "$128,765.56"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "A3",
+            "size": 1,
+            "avg": "$64,383",
+            "total": "$64,382.78"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "A4",
+            "size": 9,
+            "avg": "$72,138",
+            "total": "$649,241.93"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "A5",
+            "size": 8,
+            "avg": "$70,914",
+            "total": "$567,313.30"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "A6",
+            "size": 10,
+            "avg": "$69,501",
+            "total": "$695,010.67"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "A7",
+            "size": 2,
+            "avg": "$64,383",
+            "total": "$128,765.56"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "A9",
+            "size": 5,
+            "avg": "$69,417",
+            "total": "$347,087.17"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "Hybrid Shared",
+            "size": 141,
+            "avg": "$62,282",
+            "total": "$8,781,813.83"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "LATM-1MIX",
+            "size": 3,
+            "avg": "$64,383",
+            "total": "$193,148.34"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Sys Admin",
+            "team": "SMB BU Shared",
+            "size": 1,
+            "avg": "$64,383",
+            "total": "$64,382.78"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "Cloud Shared",
+            "size": 2,
+            "avg": "$49,118",
+            "total": "$98,235.43"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "Hybrid Shared",
+            "size": 19,
+            "avg": "$96,427",
+            "total": "$1,832,107.92"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "Mail & apps",
+            "size": 119,
+            "avg": "$40,429",
+            "total": "$4,811,045.52"
+        },
+        {
+            "businessunit": "SMB",
+            "division": "Support",
+            "department": "Tech Support",
+            "team": "Platform",
+            "size": 40,
+            "avg": "$50,396",
+            "total": "$2,015,824.91"
+        }
+    ]
+
+}
